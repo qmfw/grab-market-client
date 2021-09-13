@@ -12,7 +12,8 @@
 }
 
 #b0dy {
-  height: 100%;
+  height: 100vh;
+  /* window 기준 100% */
   width: 1024px;
   margin: 0 auto;
   padding-bottom: 56px;
@@ -99,4 +100,10 @@
 
 .product-avatar {
   width: 24px;
+}
+
+.product-link {
+  color: inherit;
+  text-decoration: none;
+  /* 원래 색에 밑줄 없고 */
 }
