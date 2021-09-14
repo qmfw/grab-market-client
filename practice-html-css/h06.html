@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <style>
+      .parent {
+        display: flex;
+        /* 수평 배치 */
+        background-color: aqua;
+        /* flex-direction: column; 수직 배치 그대로 */
+        justify-content: center;
+        /* space-around, flex-end */
+      }
+
+      .child {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        margin-right: 8px;
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="parent">
+      <div class="child">자식1</div>
+      <div class="child">자식2</div>
+      <div class="child">자식3</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <style>
+      .parent {
+        display: flex;
+        /* 수평 배치 */
+        background-color: aqua;
+      }
+
+      .child {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        margin-right: 8px;
+        border: 1px solid black;
+      }
+
+      #child1 {
+        flex: 1;
+        /* 1 1 auto flex-grow: 1과 같음 */
+      }
+      #child2 {
+        flex: 1;
+      }
+      #child3 {
+        flex: 1 1 200px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="parent">
+      <div id="child1" class="child">자식1</div>
+      <div id="child2" class="child">자식2</div>
+      <div id="child3" class="child">자식3</div>
+    </div>
+  </body>
+</html>

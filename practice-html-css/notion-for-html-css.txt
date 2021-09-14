@@ -1,0 +1,50 @@
+HTML과 CSS 빠르게 이해하기
+https://www.notion.so/HTML-CSS-91c78a62038f48febff86c0def79414b
+
+Javascript 이 정도면 충분해!
+https://www.notion.so/Javascript-24fe7131cc334f8381b5fa010a9eaeb1#517e6a28c68a415c98e89d640c0fe532
+
+Javascript 심화 학습
+https://www.notion.so/Javascript-671ea9ebef52492aa9244fd2fd5e71a4#06a7b99d0b0c4913a77cec3e059f524d
+
+ES6 문법 익히기
+https://www.notion.so/ES6-4f47c2b3cf2e414cb592befa500571e8#e8c259b4a85e44dd83262d3c807a52d6
+
+React! 특별과정
+https://www.notion.so/React-3537b3e56bf94b73a85ced76a00207b6#5347d1f3787f4f05ba4a31cc2dfe0345
+
+Git & Github 입문
+https://www.notion.so/grabyroom/Git-Github-febb96f45b3346cc92913f89022d5a09#f1b3a7cfa83848c686d91e812f00a92b
+
+React 라이브러리 사용하기
+https://www.notion.so/grabyroom/React-fcb7d37609a341f293affc2f97c23ab9#ac585ea2d30f45a1b8742fcf2d89a4d2
+
+material theme 다운
+Settings
+맥 : cmd + shift + p
+윈도우 : ctrl + shift + p 한다음 color theme 치면 나옴
+
+material icon theme 다운
+
+prettier 다운
+ctrl + shift + p 한다음 (open)settings.json
+"workbench.iconTheme": "material-icon-theme" 밑에다가
+"editor.formatOnSave": true,
+"editor.showUnused": true,
+"editor.defaultFormatter": "esbenp.prettier-vscode" 세줄 입력
+
+HTML 뼈대를 잡고
+CSS 디자인을 한 후
+JAVASCRIPT 웹의 모든 동작을 처리
+
+NAVER(기타 등등) 에서 개발자 도구
+맥 : cmd + option + I
+윈도우 : f12 ( ctrl + shift + f12 )
+console 창에서 console.log('hello world'); JS문법
+element에서 html body 지우면 웹 하얘짐
+
+open in browser 익스텐션 설치
+오른쪽 마우스로 open in browser
+
+주석 단축키 : ctrl + /
+네이버 로그인창에서 개발자 도구하면 맨 왼쪽 마우스 왔다갔다하며 정보확인
